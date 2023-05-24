@@ -53,9 +53,12 @@ streamlit run demo_DIU.py
 ```
 # Upload an image to predict
 
-![](https://hackmd.io/_uploads/H191o-jHn.png)
+
+
+![img_streamlit](https://github.com/truong11062002/page_object_detection_streamlit/assets/74360292/08bd2fea-6d42-4764-b3f2-34be56c9fd93)
+
 
 # Result after predicting
 Input             |  Output
 :-------------------------:|:-------------------------:
-![](https://hackmd.io/_uploads/B1ius-oS2.jpg)  |  ![](https://hackmd.io/_uploads/rJQKs-sHn.jpg)
+![demo_file](https://github.com/truong11062002/page_object_detection_streamlit/assets/74360292/37d12ea0-3c02-43b3-8c06-f7aca6f0be5b)  |  ![result](https://github.com/truong11062002/page_object_detection_streamlit/assets/74360292/8e220ad9-3a1a-4b0e-91d5-0f0d190d7a83)
