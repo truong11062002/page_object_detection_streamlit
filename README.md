@@ -1,6 +1,8 @@
 # Setup env mmdetection
 
 ```
+git clone https://github.com/truong11062002/page_object_detection_streamlit.git
+cd page_object_detection_streamlit
 
 conda create --name demo_DIU python=3.8 -y
 conda activate demo_DIU
@@ -15,9 +17,6 @@ cd mmdetection
 pip install -v -e .
 
 mim install mmdet
-
-git clone https://github.com/truong11062002/page_object_detection_streamlit.git
-cd page_object_detection_streamlit
 
 ```
 
