@@ -15,9 +15,8 @@ mim install "mmcv>=2.0.0"
 git clone https://github.com/open-mmlab/mmdetection.git
 cd mmdetection
 pip install -v -e .
-
 mim install mmdet
-
+cd ..
 ```
 
 # Setup env streamlit
